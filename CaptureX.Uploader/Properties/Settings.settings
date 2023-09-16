@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CaptureX.Uploader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SourceDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DestinationDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AdminUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="AdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin</Value>
+    </Setting>
+    <Setting Name="HostAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://capturex.cloud/aws/api</Value>
+    </Setting>
+    <Setting Name="ClinicUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClinicPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ClinicAETitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ImageReceiveEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://capturex.cloud/aws/api/image/split</Value>
+    </Setting>
+    <Setting Name="CloudHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.19.112.113</Value>
+    </Setting>
+    <Setting Name="CloudPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11112</Value>
+    </Setting>
+    <Setting Name="CloudAETitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CLOUDIMAGING192</Value>
+    </Setting>
+    <Setting Name="SentFilesFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sent</Value>
+    </Setting>
+    <Setting Name="ReadyToSendDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
